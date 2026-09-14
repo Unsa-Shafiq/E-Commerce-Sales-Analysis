@@ -97,7 +97,7 @@ The dashboard allows users to interactively filter the analysis by **year and re
 
 ### Dashboard Preview
 
-![Superstore Sales Dashboard](YOUR_DASHBOARD_IMAGE_PATH)
+![Superstore Sales Dashboard](https://github.com/Unsa-Shafiq/E-Commerce-Sales-Analysis/blob/main/Dashboard.png)
 
 ---
 
