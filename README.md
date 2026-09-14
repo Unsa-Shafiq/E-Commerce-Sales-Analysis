@@ -32,7 +32,7 @@ The project uses the **Superstore Retail Dataset**, available on Kaggle.
 
 ### Dataset
 
-[Download / View Original Dataset]()
+[Download / View Original Dataset](https://github.com/Unsa-Shafiq/E-Commerce-Sales-Analysis/blob/main/Sample%20-%20Superstore.csv)
 
 ---
 
